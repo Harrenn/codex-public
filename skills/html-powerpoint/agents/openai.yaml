@@ -1,0 +1,7 @@
+interface:
+  display_name: "html_powerpoint"
+  short_description: "Build polished, self-contained HTML slide decks"
+  default_prompt: "Use $html-powerpoint to create a polished, self-contained HTML presentation."
+
+policy:
+  allow_implicit_invocation: false

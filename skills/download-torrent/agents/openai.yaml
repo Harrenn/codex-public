@@ -1,0 +1,4 @@
+interface:
+  display_name: "Download Torrent"
+  short_description: "Safely add torrents to local Transmission"
+  default_prompt: "Use $download-torrent to add this torrent to my local Transmission after confirming with me."
